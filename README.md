@@ -1,1 +1,0 @@
-# globalterrorism-db-deployment
