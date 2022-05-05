@@ -37,7 +37,7 @@ rdb_region = 'us-central1'
 rdb_user = 'root'
 rdb_pwd = 'root'
 rdb_db = 'gtd_database'
-
+#logging handler
 class LoggingHandler:
     """custom logger implementation to log Messages at different severity levels"""
     def __init__(self, project, log_name, trace):
