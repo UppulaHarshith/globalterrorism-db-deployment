@@ -1,3 +1,5 @@
+#!Doc String
+#last updated 5/4/2022
 import airflow
 from airflow import DAG
 from airflow.operators.bash_operator import BashOperator
