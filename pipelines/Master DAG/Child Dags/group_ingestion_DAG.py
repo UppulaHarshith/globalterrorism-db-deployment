@@ -37,7 +37,7 @@ START_OP = DummyOperator(task_id="START",
 
 
 
-#The following operator applies transformation.sql script and pushes the data to a validation table
+#The following operator applies transformation.sql script and pushes the data to a validation table 
 group_data_pipeline = BashOperator(
     task_id='group_data_ingestion',
     wait_for_downstream=False,
