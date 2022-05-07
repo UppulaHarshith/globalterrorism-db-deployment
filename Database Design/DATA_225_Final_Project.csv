@@ -1,0 +1,15 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent Task,Priority,Status
+1202169973589008,2022-04-22,,2022-05-04,Presentation Slides,To do,Uppula Harshith,huppula2@gmail.com,2022-05-02,2022-05-04,,,DATA 225 Final Project,,Medium,
+1202169973588968,2022-04-22,2022-04-27,2022-04-27,Google Cloud Setup,To do,Uppula Harshith,huppula2@gmail.com,2022-04-22,2022-04-23,,,DATA 225 Final Project,,Low,On track
+1202169973588962,2022-04-22,,2022-05-03,Writing Report,To do,Nekkanti Lakshmi Satvika,satvika.26@gmail.com,2022-05-01,2022-05-03,,,DATA 225 Final Project,,High,
+1202169973588959,2022-04-22,,2022-04-29,Dashboard Development,To do,mythri1999@gmail.com,mythri1999@gmail.com,2022-04-29,2022-04-30,,,DATA 225 Final Project,,Medium,
+1202169973588953,2022-04-22,,2022-04-29,Integration with Airflow,To do,Uppula Harshith,huppula2@gmail.com,2022-04-28,2022-04-29,,,DATA 225 Final Project,,Low,
+1202169973588950,2022-04-22,,2022-04-29,Loading in to Google BiqQuery,To do,Shashidhar Reddy,rsreddy1378@gmail.com,,2022-04-29,,,DATA 225 Final Project,,Low,
+1202169973588939,2022-04-22,,2022-04-29,Building ETL Scripts,To do,Uppula Harshith,huppula2@gmail.com,2022-04-28,2022-04-29,,,DATA 225 Final Project,,High,
+1202169973588922,2022-04-22,2022-04-27,2022-04-27,Build DWH Model,To do,Shashidhar Reddy,rsreddy1378@gmail.com,2022-04-25,2022-04-27,,,DATA 225 Final Project,,Medium,
+1202169971906069,2022-04-22,2022-04-27,2022-04-27,Ingestion to MySQL Instance,To do,Uppula Harshith,huppula2@gmail.com,,2022-04-24,,,DATA 225 Final Project,,Low,
+1202169971479046,2022-04-22,2022-04-27,2022-04-27,ER Model Preparation,To do,Nekkanti Lakshmi Satvika,satvika.26@gmail.com,2022-04-22,2022-04-23,,,DATA 225 Final Project,,Low,On track
+1202169971479048,2022-04-22,2022-04-27,2022-04-27,Draw.IO Figure of ER Model,To do,Shashidhar Reddy,rsreddy1378@gmail.com,,2022-04-24,,,DATA 225 Final Project,,Medium,At risk
+1202169971479050,2022-04-22,2022-04-27,2022-04-27,CSV's Preparation According to ER Model,To do,Uppula Harshith,huppula2@gmail.com,,2022-04-24,,,DATA 225 Final Project,,Low,On track
+1202169973589074,2022-04-22,,2022-05-04,Research Paper Study,Ongoing,mythri1999@gmail.com,mythri1999@gmail.com,2022-04-22,2022-05-05,,,DATA 225 Final Project,,,
+1202169973589066,2022-04-22,,2022-05-05,Industry Case Study,Ongoing,Uppula Harshith,huppula2@gmail.com,2022-04-22,2022-05-05,,,DATA 225 Final Project,,,
