@@ -42,7 +42,7 @@ START_OP = DummyOperator(task_id="START",
 
 database_deployment = TriggerDagRunOperator(
     task_id="trigger_database_deploy_dag",
-    trigger_dag_id='database_deployment',
+    trigger_dag_id='database_deploy',
     dag=PIPELINE_DAG,
     wait_for_completion=True,
 )
