@@ -1,0 +1,6 @@
+numpy
+pandas
+Flask
+requests
+Pillow
+gunicorn==20.0.4
